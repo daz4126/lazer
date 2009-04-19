@@ -21,6 +21,53 @@
    inkscape:export-ydpi="90">
   <defs
      id="defs2564">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3972"
+       id="linearGradient3335"
+       gradientUnits="userSpaceOnUse"
+       x1="632.67493"
+       y1="915.97565"
+       x2="701.12262"
+       y2="1233.2781" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3593"
+       id="linearGradient3323"
+       gradientUnits="userSpaceOnUse"
+       x1="632.67493"
+       y1="915.97565"
+       x2="701.34027"
+       y2="1234.287" />
+    <linearGradient
+       id="linearGradient3972">
+      <stop
+         style="stop-color:#3ab3d5;stop-opacity:1;"
+         offset="0"
+         id="stop3974" />
+      <stop
+         style="stop-color:#287a93;stop-opacity:1"
+         offset="1"
+         id="stop3976" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3972"
+       id="linearGradient3331"
+       x1="632.24213"
+       y1="939.31616"
+       x2="701.12262"
+       y2="1233.2781"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3593"
+       id="linearGradient3333"
+       gradientUnits="userSpaceOnUse"
+       x1="632.24213"
+       y1="939.31616"
+       x2="701.12262"
+       y2="1233.2781" />
     <filter
        inkscape:collect="always"
        id="filter4488">
@@ -184,6 +231,42 @@
        y1="446.16394"
        x2="-10.374956"
        y2="461.2359" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3593"
+       id="linearGradient2655"
+       gradientUnits="userSpaceOnUse"
+       x1="632.67493"
+       y1="915.97565"
+       x2="701.34027"
+       y2="1234.287" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3972"
+       id="linearGradient2657"
+       gradientUnits="userSpaceOnUse"
+       x1="632.67493"
+       y1="915.97565"
+       x2="701.12262"
+       y2="1233.2781" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3593"
+       id="linearGradient2659"
+       gradientUnits="userSpaceOnUse"
+       x1="632.24213"
+       y1="939.31616"
+       x2="701.12262"
+       y2="1233.2781" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3972"
+       id="linearGradient2661"
+       gradientUnits="userSpaceOnUse"
+       x1="632.24213"
+       y1="939.31616"
+       x2="701.12262"
+       y2="1233.2781" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -193,7 +276,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7"
-     inkscape:cx="-16.357143"
+     inkscape:cx="-40.942497"
      inkscape:cy="24"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -248,7 +331,7 @@
     </g>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.09884429;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 24.03125,40.8125 L 10,25.4375 L 18.28125,25.4375 L 18.28125,11.1875 L 29.4375,11.1875 L 29.4375,25.40625 L 38,25.375 L 24.03125,40.8125 z"
+       d="M 24.028859,40.783446 L 11.071429,26.476576 L 18.71891,26.476576 L 18.71891,13.216553 L 29.021366,13.216553 L 29.021366,26.447498 L 36.928571,26.41842 L 24.028859,40.783446 z"
        id="path4876"
        sodipodi:nodetypes="cccccccc" />
   </g>
