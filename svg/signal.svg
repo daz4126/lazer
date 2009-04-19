@@ -16,7 +16,7 @@
    inkscape:version="0.46"
    sodipodi:docname="signal.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/daz/Pictures/icons/icicl/png/speaker.png"
+   inkscape:export-filename="/home/daz/Pictures/icons/lazer/png/signal.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -523,7 +523,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.5086971"
-     inkscape:cx="-9.7653006"
+     inkscape:cx="3.6705122"
      inkscape:cy="24"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -618,22 +618,18 @@
          style="fill:none;stroke:#ff0000;stroke-width:5;display:inline"
          id="path1382" />
     </g>
-    <g
-       id="g2485"
-       transform="matrix(0.9235468,0,0,0.9324903,1.834877,0.309099)">
-      <path
-         d="M 11.447576,22.885231 C 14.96891,20.435932 19.327138,18.984915 24.046965,18.984915 C 28.723004,18.984915 33.043097,20.410745 36.546774,22.821595"
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.23273134;stroke-linecap:round;stroke-opacity:1"
-         id="path1386" />
-      <path
-         d="M 41.162075,15.260489 C 36.454255,11.769165 30.51192,9.6804688 24.047673,9.6804688 C 17.538223,9.6804688 11.559868,11.796342 6.8379246,15.327442"
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.23273134;stroke-linecap:round;stroke-opacity:1"
-         id="path1388" />
-      <path
-         d="M 31.570578,30.726065 C 29.384049,29.447393 26.811201,28.696363 24.046965,28.696363 C 21.237527,28.696363 18.627252,29.467941 16.419535,30.782408"
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.23273134;stroke-linecap:round;stroke-opacity:1"
-         id="path1390" />
-    </g>
+    <path
+       id="path1386"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99999976;stroke-linecap:round;stroke-opacity:1"
+       d="M 12.407249,22.075076 C 15.659366,19.791128 19.684393,18.438069 24.043375,18.438069 C 28.361915,18.438069 32.351723,19.767642 35.587533,22.015736" />
+    <path
+       id="path1388"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99999976;stroke-linecap:round;stroke-opacity:1"
+       d="M 39.84998,14.539355 C 35.502088,11.283729 30.014063,9.3360404 24.044028,9.3360404 C 18.032247,9.3360404 12.510956,11.309071 8.1500204,14.601788" />
+    <path
+       id="path1390"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99999976;stroke-linecap:round;stroke-opacity:1"
+       d="M 30.991783,29.464302 C 28.972421,28.271952 26.596276,27.571624 24.043375,27.571624 C 21.448727,27.571624 19.038016,28.291113 16.999086,29.516841" />
     <path
        sodipodi:type="arc"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
