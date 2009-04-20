@@ -1,16 +1,27 @@
 
 Lazer Icons
 ==============
-A modern and minimalist icon theme for websites.
+A modern and minimalist set of open source icons that can be used for any project that requires icons - particularly websites or apps.
 
-Feel free to use these icons in any websites or applications. Modify them to suit your own needs.
+I thought it might be useful to create some icons that people could use in their projects for free so I started the Lazer Icon Project.
+
+I've tried to include as many of the most commonly used icons that I can think of. If you can think of any more, then let me know ... or have a go at creating your own and contribute to the project!
+
+Feel free to use these icons as they are or modify them in any way that is needed - change the size, colours, shape or anything else ... you could even use them as a start to your own icon theme!
+
+They come in two formats - svg and png. All of the icons were made using the brilliant Inkscape and this can be used to edit the svg files easily.
+
+The emphasis is on sharing and improving these icons, so they are hosted on github - feel free to fork or contribute.
 
 ------------------------------------------------------------
 Version 1.0, released April 2009
 Download from http://github.com/daz4126/lazer/tree/master
-Git: git://github.com/daz4126/lazer.git
+git://github.com/daz4126/lazer.git
 Copyright (c) 2009 DAZ (daz4126'at'gmail.com, dazzl.co.uk/blog)
 ------------------------------------------------------------
+
+Licensed under the MIT license
+-------------------------------
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of these icons and associated documentation files (the "Icons"), to deal
